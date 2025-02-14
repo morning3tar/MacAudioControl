@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Xcode specific
+DerivedData/
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# App Bundles
+macOS/MacAudioControl.app/
+iOS/iOSAudioControl.app/
+
+# Logs
+*.log
