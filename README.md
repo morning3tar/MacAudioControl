@@ -1,5 +1,3 @@
-# MacAudioControl
-
 # **macOS & iOS Audio Control Apps**
 #### **🎧 Control your Mac’s volume from your iPhone via MQTT & SwiftUI**
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
